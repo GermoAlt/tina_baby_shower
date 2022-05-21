@@ -1,0 +1,94 @@
+[
+  {
+    "wordToGuess" : "Labor",
+    "bannedWords" : [
+      "Contraction",
+      "Pain",
+      "Birth",
+      "Push",
+      "Delivery"
+    ]
+  },
+  {
+    "wordToGuess" : "Sleep",
+    "bannedWords" : [
+      "Rest",
+      "Bed",
+      "Eyes",
+      "Deprived",
+      "Night"
+    ]
+  },
+  {
+    "wordToGuess" : "Swaddle",
+    "bannedWords" : [
+      "Wrap",
+      "Fabric",
+      "Arms",
+      "Snuggle",
+      "Blanket"
+    ]
+  },
+  {
+    "wordToGuess" : "Pacifier",
+    "bannedWords" : [
+      "Sooth",
+      "Suck",
+      "Dummy",
+      "Mouth",
+      "Calm"
+    ]
+  },
+  {
+    "wordToGuess" : "Hospital",
+    "bannedWords" : [
+      "Doctor",
+      "Birth",
+      "Labor",
+      "Delivery",
+      "Stay"
+    ]
+  },
+  {
+    "wordToGuess" : "Father",
+    "bannedWords" : [
+      "Mother",
+      "Dad",
+      "Oatmeal",
+      "Parent",
+      "Man",
+      "Baby"
+    ]
+  },
+  {
+    "wordToGuess" : "Mother",
+    "bannedWords" : [
+      "Mom/mum",
+      "Woman",
+      "Tina",
+      "Parent",
+      "Mommy/mummy",
+      "Baby"
+    ]
+  },
+  {
+    "wordToGuess" : "Crawl",
+    "bannedWords" : [
+      "Walk",
+      "Move",
+      "Fours",
+      "Motion",
+      "Mobility"
+    ]
+  },
+  {
+    "wordToGuess" : "Baby Shower",
+    "bannedWords" : [
+      "Party",
+      "Gifts",
+      "Mom-to-be",
+      "Celebrate",
+      "Rain"
+    ]
+  }
+]
